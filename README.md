@@ -9,28 +9,28 @@ In my world, creativity and technology dance in perfect harmony. I don't just bu
 As a Creative Technologist, I seamlessly blend deep technical expertise with a strong creative vision to develop groundbreaking digital solutions. From planning and designing to solving real-life problems with code, my projects showcase my ability to push the boundaries of technology while delivering compelling and visually engaging experiences.
 
 While some projects are recreations of real-life functional apps and websites for learning and skill-building purposes, Most of my Git repositories will showcase projects built from the ground up, from planning and designing all the way to solving real-life problems with code, each reflecting my commitment to excellence and innovation.
-
-
  
    
 ### 🪽 My Social Media
 <p align="left">
-<a href="https://github.com/JOMI18?tab=followers">
-                   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JOMI18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
-&nbsp;&nbsp;
-      <a href="https://github.com/JOMI18?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JOMI18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-
-   <a href="https://github.com/JOMI18/">
-  <img  alt="total VIEWS" src="https://visitcount.itsvg.in/api?id=JOMI18&label=Profile%20Views&pretty=false" /> 
-</a>
- </p>
  
-
- <a href="https://www.instagram.com/jomi.loju_x/">
+  <a href="https://github.com/JOMI18?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JOMI18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
+  &nbsp;&nbsp;
+  <a href="https://github.com/JOMI18?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JOMI18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> &nbsp;&nbsp;    
+  
+  ![](https://komarev.com/ghpvc/?username=your-github-JOMI18&style=for-the-badge)
+   </p>
+  
+   <p>
+   <a href="https://www.instagram.com/jomi.loju_x/">
     <img  title="My IG Profile" src="https://custom-icon-badges.demolab.com/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=red" alt="instagram"/>
   </a>
-<!--  add website, linkedin, email, twitter -->
+   </p>
+
+
+
 ---
 
 
@@ -60,12 +60,16 @@ While some projects are recreations of real-life functional apps and websites fo
 
 ### 📊 My Github Stats
 
-![Jomiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOMI18&show_icons=true&theme=gruvbox) &nbsp;&nbsp;
-![Jomiii's Streak](https://streak-stats.demolab.com?user=JOMI18&theme=gruvbox&border_radius=4.5) 
-<br />
-<br />
+![Jomiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOMI18&show_icons=true&theme=gruvbox) 
+&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOMI18&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=Jomi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<br />
+
+<br />
+<br />
+
+![Jomiii's Streak](https://streak-stats.demolab.com?user=JOMI18&theme=gruvbox&border_radius=4.5) 
+
+
 #
 
 <details>
