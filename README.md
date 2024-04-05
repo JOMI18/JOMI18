@@ -24,12 +24,6 @@ While some projects are recreations of real-life functional apps and websites fo
    <a href="https://github.com/JOMI18/">
   <img  alt="total VIEWS" src="https://visitcount.itsvg.in/api?id=JOMI18&label=Profile%20Views&pretty=false" /> 
 </a>
-<!--    <a href="https://github.com/JOMI18/">
-  <img  alt="total VIEWS" src="https://profile-counter.glitch.me/{JOMI18}/count.svg" /> 
-
-
-    </a> -->
-
  </p>
  
 
