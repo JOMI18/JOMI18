@@ -10,7 +10,22 @@ As a Creative Technologist, I seamlessly blend deep technical expertise with a s
 
 While some projects are recreations of real-life functional apps and websites for learning and skill-building purposes, Most of my Git repositories will showcase projects built from the ground up, from planning and designing all the way to solving real-life problems with code, each reflecting my commitment to excellence and innovation.
 
+
+ <p align="left">
+<a href="https://github.com/JOMI18?tab=followers">
+                   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JOMI18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/JOMI18?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JOMI18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+           
+<a href="https://github.com/JOMI18">
+  <img src="https://visitcount.itsvg.in/api?id=JOMI18&label=Profile%20Views&pretty=false" />
+</a>
+ </p>
+   
 ### 🪽 My Social Media
+ <a href="https://www.instagram.com/jomi.loju_x">
+         <img alt="Instagram" title="My IG Profile" src="https://custom-icon-badges.demolab.com/instagram&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+
 
 ---
 
