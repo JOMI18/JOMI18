@@ -34,19 +34,19 @@ While some projects are recreations of real-life functional apps and websites fo
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
           
-<br />
+<br /><br /><br /><br />
 
 #
 
+
 ### 📊 My Github Stats
 
-![Jomiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOMI18&show_icons=true&theme=gruvbox)
+![Jomiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOMI18&show_icons=true&theme=gruvbox) &nbsp;&nbsp;
 ![Jomiii's Streak](https://streak-stats.demolab.com?user=JOMI18&theme=gruvbox&border_radius=4.5) 
 <br />
 <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOMI18&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Jomi&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)<br />
-
 #
 
 <details>
