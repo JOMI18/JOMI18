@@ -30,7 +30,7 @@ While some projects are recreations of real-life functional apps and websites fo
  <a href="https://www.instagram.com/jomi.loju_x/">
     <img  title="My IG Profile" src="https://custom-icon-badges.demolab.com/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=red" alt="instagram"/>
   </a>
-  
+<!--  add website, linkedin, email, twitter -->
 ---
 
 
