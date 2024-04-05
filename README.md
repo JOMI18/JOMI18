@@ -20,7 +20,7 @@ While some projects are recreations of real-life functional apps and websites fo
   <a href="https://github.com/JOMI18?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JOMI18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> &nbsp;&nbsp;    
   
-  ![](https://komarev.com/ghpvc/?username=your-github-JOMI18&style=for-the-badge)
+  ![views](https://komarev.com/ghpvc/?username=your-github-JOMI18&style=for-the-badge)
    </p>
   
    <p>
@@ -61,12 +61,11 @@ While some projects are recreations of real-life functional apps and websites fo
 ### 📊 My Github Stats
 
 ![Jomiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOMI18&show_icons=true&theme=gruvbox) 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOMI18&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br />
 <br />
-
 ![Jomiii's Streak](https://streak-stats.demolab.com?user=JOMI18&theme=gruvbox&border_radius=4.5) 
 
 
